@@ -1,0 +1,1 @@
+I used PERL to program the bubble sort as a script to sort a predefined array.
